@@ -108,3 +108,6 @@ yarn.lock
 
 # CFW
 worker.js
+
+# Publish script
+publish.sh
